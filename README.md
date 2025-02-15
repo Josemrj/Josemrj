@@ -7,7 +7,7 @@
 
 - 📫 How to contact me: **josemrjesus@outlook.com**
 
-- ⚡ Fun fact **I can optimize processes in C# that used to take hours to run in minutes!**
+- ⚡ Fun fact **i can optimize processes in C# that used to take hours to run in minutes!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
